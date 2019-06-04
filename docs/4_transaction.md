@@ -1,5 +1,5 @@
 ---
-`id: transaction
+id: transaction
 title: Transaction API
 sidebar_label: Bytom.Transaction.API
 ---
