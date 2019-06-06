@@ -63,7 +63,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href="https://github.com/BytomFans/node-docs">edit doc</Button>
+            <Button href="https://github.com/BytomFans/js-en-docs">edit doc</Button>
             <Button href="https://bytom.io/">bytom website</Button>
             <Button href="http://47.75.116.232:4567">bytom forum</Button>
           </PromoSection>
